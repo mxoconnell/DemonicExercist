@@ -1,0 +1,1426 @@
+fileFormatVersion: 2
+guid: f08e44bcca163ff4295c4132360a0936
+timeCreated: 1488502588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bb8_0
+    21300002: bb8_1
+    21300004: bb8_2
+    21300006: bb8_3
+    21300008: bb8_4
+    21300010: bb8_5
+    21300012: bb8_6
+    21300014: bb8_7
+    21300016: bb8_8
+    21300018: bb8_9
+    21300020: bb8_10
+    21300022: bb8_11
+    21300024: bb8_12
+    21300026: bb8_13
+    21300028: bb8_14
+    21300030: bb8_15
+    21300032: bb8_16
+    21300034: bb8_17
+    21300036: bb8_18
+    21300038: bb8_19
+    21300040: bb8_20
+    21300042: bb8_21
+    21300044: bb8_22
+    21300046: bb8_23
+    21300048: bb8_24
+    21300050: bb8_25
+    21300052: bb8_26
+    21300054: bb8_27
+    21300056: bb8_28
+    21300058: bb8_29
+    21300060: bb8_30
+    21300062: bb8_31
+    21300064: bb8_32
+    21300066: bb8_33
+    21300068: bb8_34
+    21300070: bb8_35
+    21300072: bb8_36
+    21300074: bb8_37
+    21300076: bb8_38
+    21300078: bb8_39
+    21300080: bb8_40
+    21300082: bb8_41
+    21300084: bb8_42
+    21300086: bb8_43
+    21300088: bb8_44
+    21300090: bb8_45
+    21300092: bb8_46
+    21300094: bb8_47
+    21300096: bb8_48
+    21300098: bb8_49
+    21300100: bb8_50
+    21300102: bb8_51
+    21300104: bb8_52
+    21300106: bb8_53
+    21300108: bb8_54
+    21300110: bb8_55
+    21300112: bb8_56
+    21300114: bb8_57
+    21300116: bb8_58
+    21300118: bb8_59
+    21300120: bb8_60
+    21300122: bb8_61
+    21300124: bb8_62
+    21300126: bb8_63
+    21300128: bb8_64
+    21300130: bb8_65
+    21300132: bb8_66
+    21300134: bb8_67
+    21300136: bb8_68
+    21300138: bb8_69
+    21300140: bb8_70
+    21300142: bb8_71
+    21300144: bb8_72
+    21300146: bb8_73
+    21300148: bb8_74
+    21300150: bb8_75
+    21300152: bb8_76
+    21300154: bb8_77
+    21300156: bb8_78
+    21300158: bb8_79
+    21300160: bb8_80
+    21300162: bb8_81
+    21300164: bb8_82
+    21300166: bb8_83
+    21300168: bb8_84
+    21300170: bb8_85
+    21300172: bb8_86
+    21300174: bb8_87
+    21300176: bb8_88
+    21300178: bb8_89
+    21300180: bb8_90
+    21300182: bb8_91
+    21300184: bb8_92
+    21300186: bb8_93
+    21300188: bb8_94
+    21300190: bb8_95
+    21300192: bb8_96
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bb8_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_2
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_3
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_4
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_5
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_6
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_7
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_8
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_9
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 5419
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_11
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_12
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_13
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_14
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_15
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_16
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_17
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_18
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_19
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 4817
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_22
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_23
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_24
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_25
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_26
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_27
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_28
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_29
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 4215
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_31
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_32
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_33
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_34
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_35
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_36
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_37
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_38
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_39
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 3613
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_42
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_43
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_44
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_45
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_46
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_47
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_48
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_49
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 3011
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_51
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_52
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_53
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_54
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_55
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_56
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_57
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_58
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_59
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 2409
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_61
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_62
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_63
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_64
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_65
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_66
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_67
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_68
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_69
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 1807
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_71
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_72
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_73
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_74
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_75
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_76
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_77
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_78
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_79
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 1205
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_81
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_82
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_83
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_84
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_85
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_86
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_87
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_88
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_89
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 603
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_91
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_92
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_93
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_94
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_95
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bb8_96
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
